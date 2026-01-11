@@ -1,7 +1,7 @@
 package Sample;
 
 public class JumpGame {
-	
+	//
 	 public boolean canJump(int[] nums) {
 
          int maxReach = 0;
